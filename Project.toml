@@ -1,2 +1,7 @@
+name = "JuliaLearn"
+uuid = "3132da23-b1eb-478e-a498-99a256c8301f"
+authors = ["Unknown "]
+version = "0.1.0"
+
 [deps]
 ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
