@@ -22,6 +22,6 @@ makedocs(
     ]
 )
 
-# deploydocs(
-#     repo = "github.com/tansongchen/julia.git",
-# )
+deploydocs(
+    repo = "github.com/tansongchen/julia.git",
+)
