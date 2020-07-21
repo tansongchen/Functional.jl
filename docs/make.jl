@@ -1,8 +1,6 @@
 using Documenter
 
 makedocs(
-    source="../docs",
-    build="/Users/tansongchen/Library/Blog/source/julia",
     sitename="半个程序员的自我修养",
     pages=[
         "科学计算中的程序设计概论" => "index.md",
@@ -23,3 +21,7 @@ makedocs(
         "Julia 专题" => "topics.md"
     ]
 )
+
+# deploydocs(
+#     repo = "github.com/tansongchen/julia.git",
+# )
